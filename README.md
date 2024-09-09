@@ -1,2 +1,3 @@
-# InternPe
-The Repository where InternPe Task file exists.
+#OasisInfobyte
+
+The Repository where OasisInfobyte Task file exists.
